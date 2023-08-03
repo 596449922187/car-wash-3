@@ -1,0 +1,83 @@
+.pagecontainer{
+
+height:100vh;
+width: 70%;
+background-color: aquamarine;
+display: flex;
+flex-direction:column;
+align-items: center;
+justify-content: center;
+
+}
+.pagecards{
+    height: 8vh;
+    width: 80%;
+    background-color: aliceblue;
+    margin-left: 70px;
+    border:black;
+    display: flex;
+flex-direction:column;
+align-items:centre;
+justify-content: center;
+
+
+}
+.pagecards{
+    height: 8vh;
+    width: 80%;
+    background-color: aliceblue;
+    margin-left: 70px;
+    margin-top: 10px;
+    margin-bottom:  10px;
+}
+.pagecards{
+    height: 10vh;
+    width: 80%;
+    background-color: aliceblue;
+    margin-left: 70px;
+    margin-top: 10px;
+    margin-bottom:  10px;
+    
+}
+.pagecards{
+    height: 10vh;
+    width: 80%;
+    background-color: aliceblue;
+    margin-left: 70px;
+    margin-top: 10px;
+    margin-bottom:  10px;
+}
+.pagecard{
+    height: 10vh;
+    width: 80%;
+    background-color: aliceblue;
+    margin-left: 70px;
+    margin-top: 10px;
+    margin-bottom:  10px;
+    display: flex;
+flex-direction:column;
+align-items: center;
+justify-content: center;
+}
+.pagecar{
+    height: 10vh;
+    width: 80%;
+    background-color: aliceblue;
+    margin-left: 70px;
+    margin-top: 10px;
+    margin-bottom:  10px;
+    display: flex;
+    align-items: center;
+justify-content: center;
+}
+.pranav{
+    background-color: yellow;
+    word-spacing: 10%;
+}
+.ByButton{
+    background-color: yellow;
+    display: flex;
+    flex-direction:column;
+align-items: center;
+justify-content: center;
+}
