@@ -10,7 +10,7 @@ justify-content: center;
 
 }
 .pagecards{
-    height: 8vh;
+    height: 10vh;
     width: 80%;
     background-color: aliceblue;
     margin-left: 70px;
@@ -23,7 +23,7 @@ justify-content: center;
 
 }
 .pagecards{
-    height: 8vh;
+    height:10vh;
     width: 80%;
     background-color: aliceblue;
     margin-left: 70px;
@@ -48,7 +48,7 @@ justify-content: center;
     margin-bottom:  10px;
 }
 .pagecard{
-    height: 10vh;
+    height: 6vh;
     width: 80%;
     background-color: aliceblue;
     margin-left: 70px;
@@ -60,7 +60,7 @@ align-items: center;
 justify-content: center;
 }
 .pagecar{
-    height: 10vh;
+    height: 4vh;
     width: 80%;
     background-color: aliceblue;
     margin-left: 70px;
@@ -70,7 +70,7 @@ justify-content: center;
     align-items: center;
 justify-content: center;
 }
-.pranav{
+.pagec{
     background-color: yellow;
     word-spacing: 10%;
 }
